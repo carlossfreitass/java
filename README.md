@@ -1,2 +1,2 @@
 # java
-Curso de Java do CursoemVideo
+Curso de Java para Iniciantes - Curso em Vídeo
