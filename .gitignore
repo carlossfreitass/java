@@ -22,3 +22,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/atividades/a002/OlaMundoSwing/target/
+/atividades/a003/OlaMundoJavaFX/nbproject/private/
+/atividades/a003/OlaMundoJavaFCX/nbproject/private/
+/atividades/a003/OlaMundoJavaFCX/build/
+/atividades/a003/OlaMundoJavaFCX/dist/
